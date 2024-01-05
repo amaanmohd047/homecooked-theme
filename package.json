@@ -1,0 +1,21 @@
+{
+  "name": "homecooked",
+  "displayName": "homecooked",
+  "description": "A high contrast theme for visual studio code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "HomeCooked Theme",
+        "uiTheme": "hc-black",
+        "path": "./themes/HomeCooked Theme-color-theme.json"
+      }
+    ]
+  }
+}
