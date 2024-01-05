@@ -2,10 +2,22 @@
   "name": "homecooked",
   "displayName": "homecooked",
   "description": "A high contrast theme for visual studio code",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "MohammedAmaan",
   "engines": {
     "vscode": "^1.85.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amaanmohd047/homecooked-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "high contrast theme",
+    "high contrast",
+    "high contrast dark theme"
+  ],
   "categories": [
     "Themes"
   ],
@@ -14,7 +26,7 @@
       {
         "label": "HomeCooked Theme",
         "uiTheme": "hc-black",
-        "path": "./themes/HomeCooked Theme-color-theme.json"
+        "path": "./themes/HomeCookedTheme-color-theme.json"
       }
     ]
   }
