@@ -7,7 +7,7 @@
   "engines": {
     "vscode": "^1.85.0"
   },
-  "Icon": "./assets/logo.png",
+  "icon": "./assets/logo.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/amaanmohd047/homecooked-theme"
