@@ -2,11 +2,12 @@
   "name": "homecooked",
   "displayName": "homecooked",
   "description": "A high contrast theme for visual studio code",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "publisher": "MohammedAmaan",
   "engines": {
     "vscode": "^1.85.0"
   },
+  "Icon": "./assets/logo.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/amaanmohd047/homecooked-theme"
