@@ -613,7 +613,7 @@
       "name": "Classes",
       "scope": "support.class, entity.name.type.class",
       "settings": {
-        "foreground": "#70b0ff"
+        "foreground": "#e0518efd"
       }
     },
     {
