@@ -8,4 +8,6 @@ This theme diverges on several colors but does not lose the essence of the moonl
 
 ![Image of theme in vs-code](./assets/ss2.png)
 
+![Image of theme in vs-code](./assets/ss3.png)
+
 ---
