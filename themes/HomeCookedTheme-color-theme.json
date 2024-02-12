@@ -64,6 +64,13 @@
       }
     },
     {
+      "name": "variable.other.readwrite.js.jsx",
+      "scope": "variable.other.readwrite.js.jsx, meta.embedded.expression.js.jsx, meta.tag.attributes.js.jsx",
+      "settings": {
+        "foreground": "#34D3FB",
+      }
+    },
+    {
       "name": "support.function.std.rust",
       "scope": "support.function.std.rust",
       "settings": {
