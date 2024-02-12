@@ -53,7 +53,7 @@
       "name": "variable.parameter.function.language.special.self.python",
       "scope": "variable.parameter.function.language.special.self.python",
       "settings": {
-        "foreground": "#f3c1ff",
+        "foreground": "#f3c1ff"
       }
     },
     {
@@ -1369,18 +1369,19 @@
       }
     },
     {
-      "scope": ["constant.language.boolean.false.js.jsx", "constant.language.boolean.true.js.jsx"],
+      "scope": [
+        "constant.language.boolean.false.js.jsx",
+        "constant.language.boolean.true.js.jsx"
+      ],
       "settings": {
-        "foreground": "#ff5370"  
+        "foreground": "#ff5370"
       }
     },
     {
       "name": "object key",
-      "scope": [
-        "variable.other.property.js", "variable.other.property.jsx"
-      ],
+      "scope": ["variable.other.property.js", "variable.other.property.jsx"],
       "settings": {
-        "foreground": "#ffbd76" 
+        "foreground": "#ffbd76"
       }
     },
 
@@ -1388,7 +1389,7 @@
       "name": "function parameters",
       "scope": "variable.parameter",
       "settings": {
-        "foreground": "#f3c1ff" 
+        "foreground": "#f3c1ff"
       }
     },
     {
